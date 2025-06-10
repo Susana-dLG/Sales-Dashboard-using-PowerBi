@@ -17,19 +17,22 @@ This project showcases my **data visualization** and **business intelligence** s
 
 ### ✅ Total Sales by Category
 A stacked bar chart visualizes sales by product category (Technology, Office Supplies, Furniture) and by customer segment (Consumer, Corporate, Home Office).
+![image](https://github.com/user-attachments/assets/912c4cf7-f222-44f2-ab4e-3db784397054)
 
-### 📈 Profit and Sales by Year
+### 📈 Profit and Sales by Year/Quarter
 A dual-axis line chart tracks annual trends in sales and profit from 2011 to 2014, revealing consistent growth.
+![image](https://github.com/user-attachments/assets/815be020-c5e7-498c-a95e-1c6483afa23d)
 
 ### 🌍 Profit by Country
 An interactive **map visual** highlights country-wise profit distribution across Europe.
+![image](https://github.com/user-attachments/assets/5960a379-4d48-4c60-b0e7-05ffb62f51bc)
 
-### 🥇 Highest Profitable Products
-A **donut chart** highlights the top five products with the highest profit margins.
+### 🥇 Sales by City and Category
+A **table** highlights the Sales on Office Supplies as the Highest Seller Category.
 
 ### 📌 KPIs
-- **Total Profit**: 283K  
-- **Total Sales**: 2M
+- **Total Profit**: 229K  
+- **Total Sales**: 36K
 
 ---
 
