@@ -62,4 +62,4 @@ The dataset includes fields such as:
 
 ---
 
-> Created with Power BI and Excel | By Yusuf Satilmis
+> Created with Power BI and Excel | By Susana de Lama Garcia
