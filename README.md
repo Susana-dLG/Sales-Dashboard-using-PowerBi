@@ -44,27 +44,30 @@ The dataset includes fields such as:
 ### ✅ Total Sales by Category
 A stacked bar chart visualizes sales by product category (Technology, Office Supplies, Furniture) and by customer segment (Consumer, Corporate, Home Office).
 
-![image](https://github.com/user-attachments/assets/912c4cf7-f222-44f2-ab4e-3db784397054)
+![image](![image](https://github.com/user-attachments/assets/18e29d68-4b9d-4e47-93d9-7e948f709e65)
 
 ### 📈 Profit and Sales by Year/Quarter
 A dual-axis line chart tracks annual trends in sales and profit from 2011 to 2014, revealing consistent growth.
 
-![image](https://github.com/user-attachments/assets/815be020-c5e7-498c-a95e-1c6483afa23d)
+![image](https://github.com/user-attachments/assets/966a6c38-027b-47ab-874c-f8834843a3ed)
+
 
 ### 🌍 Profit by Country
 An interactive **map visual** highlights country-wise profit distribution across Europe.
 
-![image](https://github.com/user-attachments/assets/5960a379-4d48-4c60-b0e7-05ffb62f51bc)
+![image](https://github.com/user-attachments/assets/c6f585f4-5e9c-4a00-9732-ec25f3d4e0e3)
+
+
+### 🥇 Highest Profitable Products
+A **chart pie** highlights the top 5 most profitable products .
+
+![image](https://github.com/user-attachments/assets/dafd6477-7a1d-4279-afc8-24105b2d0c4b)
+
+
 
 ### 🥇 Sales by City and Category
-A **table** highlights the Sales on Office Supplies as the Highest Seller Category.
 
-![image](https://github.com/user-attachments/assets/956b7cdd-e694-4d39-8235-3b2b43ed5fbc)
-
-
-### 🥇 Sales by City and Category
-
-![image](https://github.com/user-attachments/assets/de03fd04-bb84-437b-bcad-f57ad0a64efd)
+![image](https://github.com/user-attachments/assets/24cd8824-8b18-4772-aa4e-9ccd8aa69b7d)
 
 [View in PowerBI](https://app.powerbi.com/groups/me/reports/fdb14bca-b77f-493d-bacf-e9f971225d8f/b0deb759a531e4108097?experience=power-bi)
 
