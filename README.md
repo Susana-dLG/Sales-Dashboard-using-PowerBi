@@ -64,7 +64,8 @@ A **table** highlights the Sales on Office Supplies as the Highest Seller Catego
 
 ### 🥇 Sales by City and Category
 
-![image](https://github.com/user-attachments/assets/dcfddd5e-dc1a-4447-82ee-b908b803ef56)
+![image](https://github.com/user-attachments/assets/de03fd04-bb84-437b-bcad-f57ad0a64efd)
+
 [View in PowerBI](https://app.powerbi.com/groups/me/reports/fbb51535-2926-4846-a417-ec0f8b7abba1/0e8e7a823dcc31b0344d?experience=power-bi)
 
 ### 📌 KPIs
