@@ -67,13 +67,13 @@ A **chart pie** highlights the top 5 most profitable products .
 
 ### 🥇 Sales by City and Category
 
-![image](https://github.com/user-attachments/assets/24cd8824-8b18-4772-aa4e-9ccd8aa69b7d)
+![image](https://github.com/user-attachments/assets/b70328b6-516e-4646-af3b-ede77a7d0cf7)
 
 [View in PowerBI](https://app.powerbi.com/groups/me/reports/fdb14bca-b77f-493d-bacf-e9f971225d8f/b0deb759a531e4108097?experience=power-bi)
 
 ### 📌 KPIs
-- **Total Profit**: 229K  
-- **Total Sales**: 36K
+- **Total Profit**: 283K  
+- **Total Sales**: 2m
 
 ---
 
