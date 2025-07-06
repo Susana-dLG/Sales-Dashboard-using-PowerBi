@@ -66,7 +66,7 @@ A **table** highlights the Sales on Office Supplies as the Highest Seller Catego
 
 ![image](https://github.com/user-attachments/assets/de03fd04-bb84-437b-bcad-f57ad0a64efd)
 
-[View in PowerBI](https://app.powerbi.com/groups/me/reports/fbb51535-2926-4846-a417-ec0f8b7abba1/0e8e7a823dcc31b0344d?experience=power-bi)
+[View in PowerBI](https://app.powerbi.com/groups/me/reports/fdb14bca-b77f-493d-bacf-e9f971225d8f/b0deb759a531e4108097?experience=power-bi)
 
 ### 📌 KPIs
 - **Total Profit**: 229K  
