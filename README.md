@@ -44,7 +44,7 @@ The dataset includes fields such as:
 ### ✅ Total Sales by Category
 A stacked bar chart visualizes sales by product category (Technology, Office Supplies, Furniture) and by customer segment (Consumer, Corporate, Home Office).
 
-![image](![image](https://github.com/user-attachments/assets/18e29d68-4b9d-4e47-93d9-7e948f709e65)
+![image](https://github.com/user-attachments/assets/18e29d68-4b9d-4e47-93d9-7e948f709e65)
 
 ### 📈 Profit and Sales by Year/Quarter
 A dual-axis line chart tracks annual trends in sales and profit from 2011 to 2014, revealing consistent growth.
@@ -67,7 +67,7 @@ A **chart pie** highlights the top 5 most profitable products .
 
 ### 🥇 Sales by City and Category
 
-![image](https://github.com/user-attachments/assets/b70328b6-516e-4646-af3b-ede77a7d0cf7)
+![image](https://github.com/user-attachments/assets/efa8461c-b142-4aa1-b8df-a5838ce6b65a)
 
 [View in PowerBI](https://app.powerbi.com/groups/me/reports/fdb14bca-b77f-493d-bacf-e9f971225d8f/b0deb759a531e4108097?experience=power-bi)
 
